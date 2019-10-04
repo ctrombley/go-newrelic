@@ -1,7 +1,7 @@
 module github.com/paultyng/go-newrelic/v4
 
 require (
-	github.com/imdario/mergo v0.3.7
+	github.com/imdario/mergo v0.3.8
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/olekukonko/tablewriter v0.0.1
 	github.com/spf13/cobra v0.0.5
